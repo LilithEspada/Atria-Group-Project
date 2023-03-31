@@ -52,7 +52,7 @@ var quiz = {
     "a": "Caliper",
     "b": "Feeler Gauge",
     "c": "Odometer",
-    "d": "Anemometer    
+    "d": "Anemometer",    
     }
     ],
     "answer": "Anemometer",
