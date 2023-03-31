@@ -12,62 +12,203 @@ var quiz = {
     "d": "Silver"
     }
     ],
-    "answer": "3",
+    "answer": "Resin",
     "score": 0,
     "status": ""
     },
     {
     "id": 2,
-    "question": "what is the capital of India",
+    "question": ")Your blood type is determined by the genes you inherit from your parents:?",
     "options": [
     {
-    "a": "Delhi",
-    "b": "Karnataka",
-    "c": "Maharashtra"
+    "a": "True",
+    "b": "False"
+    
     }
     ],
-    "answer": "Delhi",
+    "answer": "True",
     "score": 0,
     "status": ""
     },
     {
     "id": 3,
-    "question": "Which university are you from",
+    "question": "What type of whale is the biggest animal in the world?",
     "options": [
     {
-    "a": "Atria",
-    "b": "Joseph",
-    "c": "NHPUC"
+    "a": "Elephant",
+    "b": "Blue Whale",
+    "c": "Humpbacked Whale"
     }
     ],
-    "answer": "Atria",
+    "answer": "Blue Whale",
     "score": 0,
     "status": ""
     },
     {
     "id": 4,
-    "question": "Where is Atria located",
+    "question": "Which Instrument is used For Measuring Speed",
     "options": [
     {
-    "a": "Bangalore",
-    "b": "Mumbai"
+    "a": "Caliper",
+    "b": "Feeler Gauge",
+    "c": "Odometer",
+    "d": "Anemometer    
     }
     ],
-    "answer": "Bangalore",
+    "answer": "Anemometer",
     "score": 0,
     "status": ""
     },
     {
     "id": 5,
-    "question": "How is Atria University",
+    "question": "LPG(Liquefied Petroleum Gas) is mainly a mixture of which gases?",
     "options": [
     {
-    "a": "Good",
-    "b": "Best",
-    "c": "Excellent",
+    "a": "Propane and Butane",
+    "b": "Methane and Propene",
+    "c": "Hydrocarbon gas liquids",
     }
     ],
-    "answer": "Best",
+    "answer": "Propane and Butane",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 6,
+    "question": "Which structure of the eye is the most sensitive but contains no blood vessels?",
+    "options": [
+    {
+    "a": "Pupil",
+    "b": "cornea",
+    "c": "Iris"
+    }
+    ],
+    "answer": "cornea",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 7,
+    "question": "Which layer of planet Earth is made up of tectonic plates:",
+    "options": [
+    {
+    "a": "Mantle",
+    "b": "Outer Core",
+    "c": "Crust"
+    }
+    ],
+    "answer": "Crust",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 8,
+    "question": "How many hearts does an Octopus Have?",
+    "options": [
+    {
+    "a": "Four",
+    "b": "One",
+    "c": "Three"
+    }
+    ],
+    "answer": "Three",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 9,
+    "question": "What is the lifespan of a dragonfly?",
+    "options": [
+    {
+    "a": "24 Hours",
+    "b": "24 Days",
+    "c": "1 Hour"
+    }
+    ],
+    "answer": "24 Hours",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 10,
+    "question": "How many dots appear on a pair of dice?",
+    "options": [
+    {
+    "a": "42",
+    "b": "16",
+    "c": "12"
+    }
+    ],
+    "answer": "42",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 11,
+    "question": "What is acrophobia a fear of?",
+    "options": [
+    {
+    "a": "Flying",
+    "b": "Spiders",
+    "c": "Drowning"
+    }
+    ],
+    "answer": "Flying",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 12,
+    "question": "Where is the strongest human muscle located?",
+    "options": [
+    {
+    "a": "Eyes",
+    "b": "Jaw",
+    "c": "Thigh"
+    }
+    ],
+    "answer": "Jaw",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 13,
+    "question": "What is the Percentage of Earth’s Surface covered by India?",
+    "options": [
+    {
+    "a": "5.6%",
+    "b": "2.4%",
+    "c": "5%"
+    }
+    ],
+    "answer": "2.4%",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 14,
+    "question": "What is the Full Form of UNESCO?",
+    "options": [
+    {
+    "a": "United Nations Educational , Systematic and Corporal Organization",
+    "b": "United Nations Educational, Scientific and Cultural Organisation"
+    }
+    ],
+    "answer": "United Nations Educational, Scientific and Cultural Organisation",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 15,
+    "question": "What planet is closest to the sun?",
+    "options": [
+    {
+    "a": "Neptune",
+    "b": "Venus",
+    "c": "Mercury"
+    }
+    ],
+    "answer": "Mercury",
     "score": 0,
     "status": ""
     },
