@@ -3,13 +3,13 @@ var quiz = {
     "JS": [
     {
     "id": 1,
-    "question": "what is 2 + 1",
+    "question": "Which Of The Following is not a Metal?",
     "options": [
     {
-    "a": "3",
-    "b": "4",
-    "c": "10",
-    "d": "6"
+    "a": "Gold",
+    "b": "Resin",
+    "c": "Glass",
+    "d": "Silver"
     }
     ],
     "answer": "3",
